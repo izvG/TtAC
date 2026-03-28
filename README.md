@@ -2,7 +2,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
 
-[(https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)]
+![TTS-ENGINE](https://img.shields.io/badge/TTS--ENGINE-1.0.0-blue?style=for-the-badge&logo=speakerdeck&logoColor=white)
 
 TtAC (Text to Audio Converter)
 
