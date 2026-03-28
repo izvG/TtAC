@@ -2,7 +2,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
 
-Преобразование текста в речь с сохранением в MP3/WAV.
+Самый простейший преобразователь текста в речь с сохранением в MP3/WAV.
 
 ## Зависимости
 
