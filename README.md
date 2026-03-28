@@ -1,7 +1,6 @@
 # 🎤 TTS Application
 
-[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
 
 Преобразование текста в речь с сохранением в MP3/WAV.
 
