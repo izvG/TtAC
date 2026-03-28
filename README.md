@@ -2,6 +2,8 @@
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
 
+TtAC (Text to Audio Converter)
+
 Самый простейший преобразователь текста в речь с сохранением в MP3/WAV.
 
 ## Зависимости
