@@ -1,7 +1,6 @@
 # 🎤 TtAC
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
-
 ![TTS-ENGINE](https://img.shields.io/badge/TTS-ENGINE-blue?style=for-the-badge&logoColor=white)
 
 TtAC (Text to Audio Converter)
