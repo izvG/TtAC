@@ -25,5 +25,5 @@ using NAudio.Lame;
 ### Установка
 
 ```bash
-git clone https://github.com/user/repo.git
+git clone https://github.com/izvG/TtAC.git
 cd repo
